@@ -1,0 +1,1 @@
+web unicorn TranslatorApp.wsgi:application --log-file -
