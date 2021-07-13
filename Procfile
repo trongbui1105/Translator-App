@@ -1,1 +1,1 @@
-web: gunicorn TranslatorDjangoApp.wsgi:application --log-file -
+web: gunicorn translator.wsgi:application --log-file -
